@@ -1,0 +1,1 @@
+{"jobID":"156ca57a-249b-2b77-29a1-b3fac900ecd2","spec":{"type":"policy","cause":{"Message":"","User":"Jan Hellmich \u003cjan@brex.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag.podinfod":"glob:3.2.*"},"remove":{}}}},"result":null}
